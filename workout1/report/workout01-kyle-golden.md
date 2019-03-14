@@ -82,6 +82,6 @@ A plausible reason for the discrepency between the shooting locations of Stephen
 
 ------------------------------------------------------------------------
 
-<img src="../images/klay-stephen-kevin.jpg" width="80%" style="display: block; margin: auto;" />
+<img src="../images/klay-stephen-kevin.jpg" width="50%" style="display: block; margin: auto;" />
 
 It's obvious from the data that all three, Stephen Curry, Klay Thompson and Kevin Durant are great shooters, but there are plenty of great shooters in the NBA; why do these three specifically create such a force to be reckoned with? These three players create such an unstoppable offense, not just because they are great shooters, but because they completely complement each other. Stephen Curry is able to quickly dribble the ball and has one of the fastest release times in the NBA, forcing the opponents to stretch themselves thin by following him closely, Kevin Durant uses his height of 7'1 to dominate the key as other players are unable to block him, and Klay Thompson opens himself, ready to shoot threes at any point in time. Alone, they are top players in their own respective areas, but together they form arguably the best offense in all of the NBA.
