@@ -45,7 +45,6 @@ We all know that the Golden State Warriors are one of the hottest, if not the ho
 ### The Statistics
 ***
 ##### Two-Point Shooting Statistics
-<img style="float: right;" src="../images/kevin-durant-shooting.jpg", width=150px, height=250px>
 
 If we take a look at the statistics for two point shots by the Golden State Warriors, we can see that the entire team, as a whole, is **very active** close to the basket and plays very aggresively on offense, a key aspect of their high scoring games.
 

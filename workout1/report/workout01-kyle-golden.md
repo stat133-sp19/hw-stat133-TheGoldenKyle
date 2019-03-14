@@ -24,8 +24,6 @@ The Secret Formula to the Warrior's success?
 
 ##### Two-Point Shooting Statistics
 
-<img style="float: right;" src="../images/kevin-durant-shooting.jpg", width=150px, height=250px>
-
 If we take a look at the statistics for two point shots by the Golden State Warriors, we can see that the entire team, as a whole, is **very active** close to the basket and plays very aggresively on offense, a key aspect of their high scoring games.
 
 Clearly, from the two point shooting statistics, we can see that the Andre Iguodala leads the team with with the highest percentage of his two-pointers made, however *he is also the least active two point shooter on the team*. If we take into account the amount of two pointers attempted, Kevin Durant seems to lead the Golden State Warriors close to the basket, with **390 two pointers scored** with Klay Thompson and Stephen Curry coming in a close second and third, respectively.
