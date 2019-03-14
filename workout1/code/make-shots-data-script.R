@@ -1,7 +1,7 @@
-#' @title 
-#' @description 
-#' @inputs 
-#' @return 
+#' @title Create Shots Data
+#' @description This script reads the individual players files and then compiles all of their data into one main datatable, ready to be worked with. It also writes summaries of each player's data to their own respective CSV files.
+#' @inputs Data CSV file for each player
+#' @return Text files player summaries, and CSV of concatenated data.
 
 steph <- read.csv("../data/stephen-curry.csv", stringsAsFactors = FALSE)
 klay <- read.csv("../data/klay-thompson.csv", stringsAsFactors = FALSE)
