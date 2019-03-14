@@ -16,7 +16,7 @@ Kyle Golden
 The Secret Formula to the Warrior's success?
 ============================================
 
-<img src="../images/GSW.jpg" width="80%" style="display: block; margin: auto;" /> We all know that the Golden State Warriors are one of the hottest, if not the hottest team in the NBA right now, but have you ever asked yourself **how do they continue to win game after game**? What is their recipe for success? How do they continue to dominate the NBA leaderboards? Although such complex questions have very complex answers, one thing is for sure: The Golden State Warriors have some of the best shooters in the league. This report attempts the analyze why the Golden State Warriors are just so effective at offense, by using the shooting statistics of the five GSW starters: *Klay Thompson, Stephen Curry, Andre Iguodala, Kevin Durant and Draymond Green.*
+<img src="../images/GSW.jpg" width="100%" style="display: block; margin: auto;" /> We all know that the Golden State Warriors are one of the hottest, if not the hottest team in the NBA right now, but have you ever asked yourself **how do they continue to win game after game**? What is their recipe for success? How do they continue to dominate the NBA leaderboards? Although such complex questions have very complex answers, one thing is for sure: The Golden State Warriors have some of the best shooters in the league. This report attempts the analyze why the Golden State Warriors are just so effective at offense, by using the shooting statistics of the five GSW starters: *Klay Thompson, Stephen Curry, Andre Iguodala, Kevin Durant and Draymond Green.*
 
 ### The Statistics
 
