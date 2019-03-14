@@ -11,8 +11,8 @@
 - **seconds_remaining:** Number of seconds added to the minutes_remaining that are remaining in the period. *(integer)*
 - **shot_made_flag:** Indicates whether the shot was made or whether it was missed. "y" and "n" respectively *(character)*
 - **action_type:** Type of action used by the player leading up to the shot. *(character)*
-- **shot_type:** What type of shot was shot. *(factor of 2 levels corresponding to 2 or 3 point field goals)*
+- **shot_type:** What type of shot was shot. *(character)*
 - **shot_distance:** Distance the player was from the basket when taking the shot measured in feet. *(integer)*
 - **opponent:** Team that the player was playing against when taking the shot. *(character)*
-- **x:** Number of inches horizontally that the player was away from the center vertical line of the court. Negative values represent positions on the left side of the vertical line and positive values represent positions on the right side of the vertical line. The total length of the court is 1128 inches. *(integer)*
-- **y:** Number of inches vertically that the player was away from the center of the half court. Negative values represent positions below below the center of the half court and positive values represent positions above the center of the half court. The total height of the court is 600 inches. *(integer)*
+- **x:** Number of inches horizontally that the player was away from the center vertical line of the court. Negative values represent positions on the left side of the vertical line and positive values represent positions on the right side of the vertical line. The total length of the half court is 564 inches. *(integer)*
+- **y:** Number of inches vertically that the player was away from the center of the half court. Negative values represent positions below below the center of the half court and positive values represent positions above the center of the half court. The total height of the half court is 300 inches. *(integer)*
