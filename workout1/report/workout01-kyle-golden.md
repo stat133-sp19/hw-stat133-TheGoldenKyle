@@ -16,9 +16,7 @@ Kyle Golden
 The Secret Formula to the Warrior's success?
 ============================================
 
-<img style="float: right;" src="../images/GSW.jpg", width=350px, height=200px>
-
-We all know that the Golden State Warriors are one of the hottest, if not the hottest team in the NBA right now, but have you ever asked yourself **how do they continue to win game after game**? What is their recipe for success? How do they continue to dominate the NBA leaderboards? Although such complex questions have very complex answers, one thing is for sure: The Golden State Warriors have some of the best shooters in the league. This report attempts the analyze why the Golden State Warriors are just so effective at offense, by using the shooting statistics of the five GSW starters: *Klay Thompson, Stephen Curry, Andre Iguodala, Kevin Durant and Draymond Green.*
+<img src="../images/GSW.jpg" width="80%" style="display: block; margin: auto;" /> We all know that the Golden State Warriors are one of the hottest, if not the hottest team in the NBA right now, but have you ever asked yourself **how do they continue to win game after game**? What is their recipe for success? How do they continue to dominate the NBA leaderboards? Although such complex questions have very complex answers, one thing is for sure: The Golden State Warriors have some of the best shooters in the league. This report attempts the analyze why the Golden State Warriors are just so effective at offense, by using the shooting statistics of the five GSW starters: *Klay Thompson, Stephen Curry, Andre Iguodala, Kevin Durant and Draymond Green.*
 
 ### The Statistics
 
@@ -86,6 +84,6 @@ A plausible reason for the discrepency between the shooting locations of Stephen
 
 ------------------------------------------------------------------------
 
-<img style="float: right;" src="../images/klay-stephen-kevin.jpg", width=450px, height=275px>
+<img src="../images/klay-stephen-kevin.jpg" width="80%" style="display: block; margin: auto;" />
 
 It's obvious from the data that all three, Stephen Curry, Klay Thompson and Kevin Durant are great shooters, but there are plenty of great shooters in the NBA; why do these three specifically create such a force to be reckoned with? These three players create such an unstoppable offense, not just because they are great shooters, but because they completely complement each other. Stephen Curry is able to quickly dribble the ball and has one of the fastest release times in the NBA, forcing the opponents to stretch themselves thin by following him closely, Kevin Durant uses his height of 7'1 to dominate the key as other players are unable to block him, and Klay Thompson opens himself, ready to shoot threes at any point in time. Alone, they are top players in their own respective areas, but together they form arguably the best offense in all of the NBA.
