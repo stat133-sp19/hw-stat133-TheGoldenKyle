@@ -5,7 +5,7 @@
 
 `bin_probability(success, trials, prob)` Computes the probability of a number of successes in trials with a given probability of success
 
-`bin_variable(trials, prob)` Creates a binomial random variable object of class `bindvar`for a number of trials and a probability of success
+`bin_variable(trials, prob)` Creates a binomial random variable object of class `binvar`for a number of trials and a probability of success
 
 `bin_distribution(success, trials, prob)` Computes probability distribution of a number of succcesses given number of trials and probability of success. Returns a `bindis` object, which acts as a `data.frame`.
 
