@@ -1,0 +1,16 @@
+Package: binomial
+Type: Package
+Title: Binomial 
+Version: 1.0.0
+Author: Kyle Golden
+Maintainer: Kyle Golden <kylegolden@berkeley.edu>
+Description: This package simulates many functions one may need when dealing with binomial random variables
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
