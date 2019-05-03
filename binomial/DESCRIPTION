@@ -1,10 +1,12 @@
 Package: binomial
 Type: Package
-Title: Binomial 
+Title: Functions for Binomial Distributions
 Version: 1.0.0
 Author: Kyle Golden
 Maintainer: Kyle Golden <kylegolden@berkeley.edu>
-Description: This package simulates many functions one may need when dealing with binomial random variables
+Description: This package simulates many functions one may need when dealing with 
+             binomial random variables such as distribution creation and summary
+             measure calculations.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
